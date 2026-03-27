@@ -1,0 +1,164 @@
+[
+  {
+    "name": "AI-Generated-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/AI-Generated-Projects-Index",
+    "description": "Development projects that were either partially or fully developed using AI.",
+    "github_url": "https://github.com/danielrosehill/AI-Generated-Projects-Index"
+  },
+  {
+    "name": "AI-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/AI-Projects-Index",
+    "description": "Index of AI project repositories including demos, POCs, system prompts, and related tools.",
+    "github_url": "https://github.com/danielrosehill/AI-Projects-Index"
+  },
+  {
+    "name": "Agents-Index",
+    "path": "/home/daniel/repos/indexing-repos/Agents-Index",
+    "description": "A periodically updated list of AI agent configurations shared on GitHub and related projects.",
+    "github_url": "https://github.com/danielrosehill/Agents-Index"
+  },
+  {
+    "name": "Apps-Index",
+    "path": "/home/daniel/repos/indexing-repos/Apps-Index",
+    "description": "Index of apps created, covering AI/LLM tools, audio, browser automation, databases, and more.",
+    "github_url": "https://github.com/danielrosehill/Apps-Index"
+  },
+  {
+    "name": "Awesome-List-Repos-Index",
+    "path": "/home/daniel/repos/indexing-repos/Awesome-List-Repos-Index",
+    "description": "Curated index of awesome list repositories covering AI/ML tools, Linux desktop applications, and specialized resource collections.",
+    "github_url": "https://github.com/danielrosehill/Awesome-List-Repos-Index"
+  },
+  {
+    "name": "Backup-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/Backup-Projects-Index",
+    "description": "Index of backup-related projects.",
+    "github_url": "https://github.com/danielrosehill/Backup-Projects-Index"
+  },
+  {
+    "name": "Claude-Code-Repos-Index",
+    "path": "/home/daniel/repos/indexing-repos/Claude-Code-Repos-Index",
+    "description": "A curated collection of Claude Code projects, agent workspace blueprints, and related resources, organized by use case and category.",
+    "github_url": "https://github.com/danielrosehill/Claude-Code-Repos-Index"
+  },
+  {
+    "name": "Context-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/Context-Projects-Index",
+    "description": "Index of repositories focused on context management, generation, and processing for AI/LLM systems.",
+    "github_url": "https://github.com/danielrosehill/Context-Projects-Index"
+  },
+  {
+    "name": "Data-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/Data-Projects-Index",
+    "description": "Sustainability apps and resources including Streamlit apps for GHG emissions, data visualization, and sustainability reporting.",
+    "github_url": "https://github.com/danielrosehill/Data-Projects-Index"
+  },
+  {
+    "name": "Development-Project-Index",
+    "path": "/home/daniel/repos/indexing-repos/Development-Project-Index",
+    "description": "A personal tool for indexing public projects across GitHub and Hugging Face platforms, serving as both a project index and an open-source pattern.",
+    "github_url": "https://github.com/danielrosehill/Development-Project-Index"
+  },
+  {
+    "name": "Docs-And-Notes-Index",
+    "path": "/home/daniel/repos/indexing-repos/Docs-And-Notes-Index",
+    "description": "Index of documentation repositories and notes shared on GitHub, covering AI, context/RAG, backups, development tools, and more.",
+    "github_url": "https://github.com/danielrosehill/Docs-And-Notes-Index"
+  },
+  {
+    "name": "Experiments-And-Evaluations-Index",
+    "path": "/home/daniel/repos/indexing-repos/Experiments-And-Evaluations-Index",
+    "description": "Index of experimental projects, evaluations, proof-of-concepts, templates, patterns, and exploratory ideas related to AI/LLM development and workflows.",
+    "github_url": "https://github.com/danielrosehill/Experiments-And-Evaluations-Index"
+  },
+  {
+    "name": "Home-Assistant-Index",
+    "path": "/home/daniel/repos/indexing-repos/Home-Assistant-Index",
+    "description": "Index of Home Assistant related projects.",
+    "github_url": "https://github.com/danielrosehill/Home-Assistant-Index"
+  },
+  {
+    "name": "Homebox-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/Homebox-Projects-Index",
+    "description": "A curated index of Homebox-related projects and tools including MCP server integration, backup GUI, and AI assistants.",
+    "github_url": "https://github.com/danielrosehill/Homebox-Projects-Index"
+  },
+  {
+    "name": "Index",
+    "path": "/home/daniel/repos/indexing-repos/Index",
+    "description": "Automatically generated master index of Daniel Rosehill's public GitHub repositories with multiple browsing views.",
+    "github_url": "https://github.com/danielrosehill/Index"
+  },
+  {
+    "name": "Index-Of-Indices",
+    "path": "/home/daniel/repos/indexing-repos/Index-Of-Indices",
+    "description": "A meta-index that catalogs the various indexing repositories organized across GitHub.",
+    "github_url": "https://github.com/danielrosehill/Index-Of-Indices"
+  },
+  {
+    "name": "Israel-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/Israel-Projects-Index",
+    "description": "A comprehensive index of Israel-related repositories, datasets, and Hugging Face spaces.",
+    "github_url": "https://github.com/danielrosehill/Israel-Projects-Index"
+  },
+  {
+    "name": "Jewish-Related-Index",
+    "path": "/home/daniel/repos/indexing-repos/Jewish-Related-Index",
+    "description": "Index of Jewish-related projects on GitHub covering AI tools, Home Assistant automations for Shabbat/Yom Tov, and Torah tech resources.",
+    "github_url": "https://github.com/danielrosehill/Jewish-Related-Index"
+  },
+  {
+    "name": "MCP-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/MCP-Projects-Index",
+    "description": "Index of MCP (Model Context Protocol) projects including completed servers, implementation notes, and planning documents.",
+    "github_url": "https://github.com/danielrosehill/MCP-Projects-Index"
+  },
+  {
+    "name": "My-Docs-Index",
+    "path": "/home/daniel/repos/indexing-repos/My-Docs-Index",
+    "description": "Index of documentation repositories with links to the docs website at docs.bydanielrosehill.com.",
+    "github_url": "https://github.com/danielrosehill/My-Docs-Index"
+  },
+  {
+    "name": "N8N-Workflows-Index",
+    "path": "/home/daniel/repos/indexing-repos/N8N-Workflows-Index",
+    "description": "Index of N8N workflow repositories including voice note processing, AI agent workflows, and workflow sanitization tools.",
+    "github_url": "https://github.com/danielrosehill/N8N-Workflows-Index"
+  },
+  {
+    "name": "Networking-Projects-Index",
+    "path": "/home/daniel/repos/indexing-repos/Networking-Projects-Index",
+    "description": "Index of networking-related projects.",
+    "github_url": "https://github.com/danielrosehill/Networking-Projects-Index"
+  },
+  {
+    "name": "Prompt-Libraries-Index",
+    "path": "/home/daniel/repos/indexing-repos/Prompt-Libraries-Index",
+    "description": "A curated collection of prompt libraries for various LLM applications, including system prompts, user prompts, and specialized tools.",
+    "github_url": "https://github.com/danielrosehill/Prompt-Libraries-Index"
+  },
+  {
+    "name": "Speech-And-ASR-Evaluations",
+    "path": "/home/daniel/repos/indexing-repos/Speech-And-ASR-Evaluations",
+    "description": "Index of evaluations and experiments assessing Automatic Speech Recognition (ASR) and Speech-to-Text (STT) system performance under various conditions.",
+    "github_url": "https://github.com/danielrosehill/Speech-And-ASR-Evaluations"
+  },
+  {
+    "name": "Speech-Tech-Index",
+    "path": "/home/daniel/repos/indexing-repos/Speech-Tech-Index",
+    "description": "Index of speech technology repositories, tools, and resources including ASR fine-tuning and voice models.",
+    "github_url": "https://github.com/danielrosehill/Speech-Tech-Index"
+  },
+  {
+    "name": "Voice-Apps-Index",
+    "path": "/home/daniel/repos/indexing-repos/Voice-Apps-Index",
+    "description": "Index of voice typing, dictation, and speech-to-text applications and utilities.",
+    "github_url": "https://github.com/danielrosehill/Voice-Apps-Index"
+  },
+  {
+    "name": "WIP-Index",
+    "path": "/home/daniel/repos/indexing-repos/WIP-Index",
+    "description": "Index of work-in-progress repositories at various stages of development, from early ideas and planning notes to partially built tools.",
+    "github_url": "https://github.com/danielrosehill/WIP-Index"
+  }
+]
