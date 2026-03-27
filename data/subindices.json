@@ -18,6 +18,12 @@
     "github_url": "https://github.com/danielrosehill/Agents-Index"
   },
   {
+    "name": "Architectural-Plans-Index",
+    "path": "/home/daniel/repos/indexing-repos/Architectural-Plans-Index",
+    "description": "Project plans, blueprints, specifications, and design documents for software and hardware projects.",
+    "github_url": "https://github.com/danielrosehill/Architectural-Plans-Index"
+  },
+  {
     "name": "Apps-Index",
     "path": "/home/daniel/repos/indexing-repos/Apps-Index",
     "description": "Index of apps created, covering AI/LLM tools, audio, browser automation, databases, and more.",
