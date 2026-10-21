@@ -6,7 +6,7 @@ A Claude Code-powered maintenance tool for Daniel Rosehill's GitHub repository i
 
 Daniel maintains 700+ public GitHub repositories organised into a hierarchy of indices:
 
-- **[Master Index](https://github.com/danielrosehill/Index)** — the front page with category and timeline views
+- **[Master Index](https://github.com/danielrosehill/Start-Here)** — the front page with category and timeline views
 - **[Index of Indices](https://github.com/danielrosehill/Index-Of-Indices)** — lists all topic-specific subindices
 - **Subindices** — domain-specific collections (e.g. [Agents](https://github.com/danielrosehill/Agents-Index), [MCP Projects](https://github.com/danielrosehill/MCP-Projects-Index), [Voice Apps](https://github.com/danielrosehill/Voice-Apps-Index))
 

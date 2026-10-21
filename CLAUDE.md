@@ -8,7 +8,7 @@ This repo manages Daniel Rosehill's GitHub repository indexing system. The syste
 
 The indexing system has three tiers:
 
-1. **Master Index** — `danielrosehill/Index` — the front page with category views, topic browsing, and timeline views
+1. **Master Index** — `danielrosehill/Start-Here` — the front page with category views, topic browsing, and timeline views
 2. **Index of Indices** — `danielrosehill/Index-Of-Indices` — meta-index listing all subindices
 3. **Subindices** — domain-specific indices (e.g. `Agents-Index`, `MCP-Projects-Index`, `Voice-Apps-Index`)
 
@@ -24,7 +24,7 @@ The indexing system has three tiers:
 
 ## Key URLs
 
-- Master Index: https://github.com/danielrosehill/Index
+- Master Index: https://github.com/danielrosehill/Start-Here
 - Index of Indices: https://github.com/danielrosehill/Index-Of-Indices
 - Example subindex: https://github.com/danielrosehill/Agents-Index
 
